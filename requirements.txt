@@ -1,6 +1,5 @@
-torch>=2.0.0
 transformers>=4.42.3
-datasets>=2.16.1
+datasets>=2.16.0
 protobuf>=3.20.0
 huggingface-hub
 numpy>=1.24.3
